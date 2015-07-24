@@ -31,6 +31,7 @@ Performing the required transformations
 =========================
 
 Read and run the run_analysis.R (the file contains lots of comments about each step)
+The Markdown file "CodeBook.md" describes the steps with illustrative details.
 
 Here is a summary of what to do after read all the raw data files.
 
